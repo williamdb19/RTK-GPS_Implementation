@@ -11,7 +11,10 @@ This project is from our Senior Design Project at Mercer University. We were tas
 Our client is Dr. Anthony Choi from Mercer University.
 
 # Use Case
-Our use case that we implement the GPS system in was an autonmous rover as pictured below.
-![Image of Rover Setup](/Images/Senior Design High Accuracy GPS Update.jpg)
+We implemented the GPS system in an autonmous rover as pictured below
+<p align="center">
+  <img src="https://github.com/williamdb19/RTK-GPS_Implementation/blob/main/Images/Senior%20Design%20High%20Accuracy%20GPS%20Update.jpg" />
+</p>
+More information on how to set the hardware and electronics can be found in the [Hardware README](./Hardware/Hardware.md)
 
 
