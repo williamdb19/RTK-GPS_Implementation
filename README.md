@@ -16,5 +16,5 @@ We implemented the GPS system in an autonmous rover as pictured below
   <img src="https://github.com/williamdb19/RTK-GPS_Implementation/blob/main/Images/Senior%20Design%20High%20Accuracy%20GPS%20Update.jpg" />
 </p>
 More information on how to set the hardware and electronics can be found in the 
-[Hardware README](Hardware/Hardware.md)
+[Hardware README](https://github.com/williamdb19/RTK-GPS_Implementation/blob/main/Hardware/Hardware.md)
 
