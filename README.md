@@ -12,3 +12,6 @@ Our client is Dr. Anthony Choi from Mercer University.
 
 # Use Case
 Our use case that we implement the GPS system in was an autonmous rover as pictured below.
+![Image of Rover Setup](./Images/Senior Design High Accuracy GPS Update.jpg)
+
+
